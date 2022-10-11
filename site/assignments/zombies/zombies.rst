@@ -406,7 +406,7 @@ General FAQ:
 * But density will grow larger the smaller I make the area.
     * Correct, you understand basic arithmetic.
 
-* But I never used the one function!!!!1!
+* But I never used the one function!!!!!!
     * Fine, but write the code anyways and make sure it works.
 
 * But the degrees values don't specify a cardinal direction!
